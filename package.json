@@ -1,0 +1,28 @@
+{
+  "name": "youtube-search",
+  "version": "1.0.0",
+  "description": "This npm module will trigger youtube api to search videos",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tarunjangra/youtube-search.git"
+  },
+  "dependencies": {
+    "axios": "^0.7.0"
+  },
+  "keywords": [
+    "youtube",
+    "search",
+    "api"
+  ],
+  "author": "Tarun Jangra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunjangra/youtube-search/issues"
+  },
+  "homepage": "https://github.com/tarunjangra/youtube-search#readme"
+}
