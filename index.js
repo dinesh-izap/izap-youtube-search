@@ -10,7 +10,7 @@ module.exports = function (options, callback) {
   var params = {
     part: 'snippet',
     key: options.key,
-    q: options.term,
+    term: options.term,
     type: 'video',
     maxResults: options.maxResults?options.maxResults:10
   };

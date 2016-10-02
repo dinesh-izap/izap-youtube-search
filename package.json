@@ -1,5 +1,5 @@
 {
-  "name": "youtube-search",
+  "name": "izap-youtube-search",
   "version": "1.0.0",
   "description": "This npm module will trigger youtube api to search videos",
   "main": "index.js",
