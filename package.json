@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tarunjangra/youtube-search.git"
+    "url": "git+ssh://git@github.com/tarunjangra/izap-youtube-search.git"
   },
   "dependencies": {
     "axios": "^0.7.0"
@@ -22,7 +22,7 @@
   "author": "Tarun Jangra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tarunjangra/youtube-search/issues"
+    "url": "https://github.com/tarunjangra/izap-youtube-search/issues"
   },
-  "homepage": "https://github.com/tarunjangra/youtube-search#readme"
+  "homepage": "https://github.com/tarunjangra/izap-youtube-search#readme"
 }
