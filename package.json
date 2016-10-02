@@ -1,6 +1,6 @@
 {
   "name": "izap-youtube-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This npm module will trigger youtube api to search videos",
   "main": "index.js",
   "devDependencies": {},
